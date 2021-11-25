@@ -223,7 +223,7 @@
                 <div class="col-lg-7 pl-lg-0">
                     <div class="w3l-right-info">
                         <h6 class="title-small">Who we are</h6>
-                        <h3 class="title-big">The experts in local and international property</h3>
+                        <h3 class="title-big">The experts in local and international Gaming Community</h3>
                         <p class="mt-4">We have over 15 year experience, Over 20,000 people work for us in more than 70
                             countries all over the world. Learn more about our work!
                             Lorem ipsum vive dolor sit amet.
@@ -231,12 +231,12 @@
                         <p class="mt-3">Viverra feugiat. Pellen tesque libero ut justo,
                             ultrices in ligula. Semper at tempufddfel lorem ipsum.</p>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Outstanding property</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Social responsibility</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Get expert advice</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Group structure</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Specialist services</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Vision & strategy</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Best Games</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Best Gaming Experience</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Esports Tournament</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Platform for gaming</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Steam Services</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>Online Gaming</li>
                         </ul>
                         <a href="#services" class="btn btn-style btn-primary mt-4">Discover our services</a>
                     </div>
@@ -251,7 +251,7 @@
             <div class="col-lg-4 col-md-6 grids-feature">
                 <div class="area-box no-box-shadow">
                     <span class="fa fa-home"></span>
-                    <h4><a href="#feature" class="title-head">Book Property</a></h4>
+                    <h4><a href="#feature" class="title-head">Book a Game</a></h4>
                     <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor amet ipsum primis in faucibus orci.</p>
                     <a href="#more" class="more">Read More <span class="fa fa-long-arrow-right"></span> </a>
                 </div>
@@ -259,7 +259,7 @@
             <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-4">
                 <div class="area-box no-box-shadow">
                     <span class="fa fa-home"></span>
-                    <h4><a href="#feature" class="title-head">Buy Property </a></h4>
+                    <h4><a href="#feature" class="title-head">Buy a Game </a></h4>
                     <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor amet ipsum primis in faucibus orci.</p>
                     <a href="#more" class="more">Read More <span class="fa fa-long-arrow-right"></span> </a>
                 </div>
@@ -267,7 +267,7 @@
             <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
                 <div class="area-box no-box-shadow">
                     <span class="fa fa-building-o"></span>
-                    <h4><a href="#feature" class="title-head">See neighbourhoods</a></h4>
+                    <h4><a href="#feature" class="title-head">Trailor of games</a></h4>
                     <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor amet ipsum primis in faucibus orci.</p>
                     <a href="#more" class="more">Read More <span class="fa fa-long-arrow-right"></span> </a>
                 </div>
@@ -371,199 +371,6 @@
         </div>
     </div>
 </section>
-<section class="w3l-index3" id="about">
-    <div class="midd-w3 py-5">
-        <div class="container pb-lg-5 pb-md-4 pb-2">
-            <div class="row">
-                <div class="col-lg-5 pr-lg-0">
-                    <div class="w3l-left-img1">
-                    </div>
-                </div>
-                <div class="col-lg-7 pl-lg-0">
-                    <div class="w3l-right-info">
-                        <h6 class="title-small">Our clients</h6>
-                        <div class="client-grid">
-                            <div class="client-title">
-                                <h3 class="title-big">We value client relationships</h3>
-                            </div>
-                            <div class="clients-info">
-                                <h3 class="title-big">45,200</h3>
-                                <p>Satisfied customers</p>
-                            </div>
-                        </div>
-
-                        <div class="w3l-clients" id="testimonials">
-                            <div id="owl-demo1" class="owl-carousel owl-theme mt-4 pt-2 mb-4">
-                                <div class="item">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial">
-                                            <div class="testi-des">
-                                                <div class="peopl align-self">
-                                                    <h4>Sangram Shinde</h4>
-                                                    <p class="indentity">Web Developer</p>
-                                                </div>
-                                            </div>
-                                            <blockquote>
-                                                <q>Building Permit are always helpful, prompt and easy to access.  If we have any queries about something, nothing is too much trouble for them.  The staff are friendly and polite.  Under pressure, they are very professional.  They are our go-to building consultants for all our business matters</q>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial">
-                                            <div class="testi-des">
-                                                <div class="peopl align-self">
-                                                    <h4>Darshan Jadhao</h4>
-                                                    <p class="indentity">Data Scientist</p>
-                                                </div>
-                                            </div>
-                                            <blockquote>
-                                                <q>We were very pleased with Building Permit’s service, right from the start with the permit being issued smoothly and promptly, inspections on-time and final paperwork all complete very quickly. Thanks so much for your service! Would absolutely recommend Watershed to anyone.</q>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial">
-                                            <div class="testi-des">
-                                                <div class="peopl align-self">
-                                                    <h4>Brahmajit Mohapatra</h4>
-                                                    <p class="indentity">Data Scientist</p>
-                                                </div>
-                                            </div>
-                                            <blockquote>
-                                                <q>We use Building Permit because they are prompt with processing our applications, and are very helpful clarifying information when asked. They have a great attitude which makes them a pleasure to deal with. We work as a team to get the job done.</q>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial">
-                                            <div class="testi-des">
-                                                <div class="peopl align-self">
-                                                    <h4>Digvijay Mandal</h4>
-                                                    <p class="indentity">Web Developer</p>
-                                                </div>
-                                            </div>
-                                            <blockquote>
-                                                <q>We have been using Building Permits for over 7 years and have been extremely happy with the services they provide. Their response times are always efficient and all the team are happy to help with any queries we have regarding Building and Planning.</q>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <a href="#agents" class="btn btn-style btn-primary mt-5">Contact our agents</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-<!-- /bottom-grids-->
-<section class="w3l-bottom-grids py-5" id="steps">
-    <div class="container py-lg-5 py-md-4 py-2">
-        <div class="grids-area-hny main-cont-wthree-fea row">
-            <div class="col-lg-4 col-md-6 grids-feature">
-                <div class="area-box no-box-shadow text-left">
-                    <span class="fa fa-search-plus"></span>
-                    <h5>All in one place</h5>
-                    <h4><a href="#feature" class="title-head">Your One-Stop Shop for Finding Your Dream Property
-                    </a></h4>
-                    <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor in orci.</p>
-                    <a href="#more" class="more">Search for property<span class="fa fa-long-arrow-right"></span> </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-4">
-                <div class="area-box no-box-shadow text-left">
-                    <span class="fa fa-user-o"></span>
-                    <h5>Connect to an agent</h5>
-                    <h4><a href="#feature" class="title-head">Schedule a Free, No-Obligation Appointment</a></h4>
-                    <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor in orci.</p>
-                     <a href="#more" class="more">Find an agent <span class="fa fa-long-arrow-right"></span> </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
-                <div class="area-box no-box-shadow text-left">
-                    <span class="fa fa-home"></span>
-                    <h5>Get a property valuation</h5>
-                    <h4><a href="#feature" class="title-head">Understand the Value of Your Property </a></h4>
-                    <p>Vivamus a ligula quam. Ut blandit eu leo non. Duis sed dolor in orci.</p>
-                    <a href="#more" class="more">Submit info <span class="fa fa-long-arrow-right"></span> </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- //bottom-grids-->
-<!--  News section -->
-<div class="w3l-news" id="news">
-    <section id="grids5-block" class="py-5">
-        <div class="container py-lg-5 py-md-4 py-2">
-            <h3 class="title-big text-center">Articles and News</h3>
-            <div class="row mt-lg-5 mt-4 pt-3">
-                <div class="col-lg-4 col-md-6 mt-md-0 mt-sm-4">
-                    <div class="grids5-info">
-                        <span class="posted-date">
-                            <a href="#blog-single">
-                                <span class="small">2021</span>
-                                <span class="big">17</span>
-                                <span class="small">August</span>
-                            </a>
-                        </span>
-                        <a href="#blog-single" class="d-block zoom"><img src="assets/images/p1.jpg" alt=""
-                                class="img-fluid news-image" /></a>
-                        <div class="blog-info">
-                            <a href="#category" class="category">Uncategorized</a>
-                            <h4><a href="#blog-single">Now get building permits within 30 days in Chennai</a></h4>
-                            <p>Taking a strong note of residents being made to run from pillar to post for getting building approvals, the city corporation has directed all its zonal officials to ensure the documents are issued within 30 days of receiving applications. The civic body is also considering to move the entire process online to reduce hassles.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mt-md-0 mt-5">
-                    <div class="grids5-info">
-                        <span class="posted-date">
-                            <a href="#blog-single">
-                                <span class="small">2018</span>
-                                <span class="big">12</span>
-                                <span class="small">March</span>
-                            </a>
-                        </span>
-                        <a href="#blog-single" class="d-block zoom"><img src="assets/images/p2.jpg" alt=""
-                                class="img-fluid news-image" /></a>
-                        <div class="blog-info">
-                            <a href="#category" class="category">Uncategorized</a>
-                            <h4><a href="#blog-single">Building permit alterations lead February building activity in Regina, Canada</a></h4>
-                            <p>In Regina, building permits issued for residential and commercial alterations saw a colossal 104 per cent increase in the value of construction over this time last year with 119 permits issued for residential, commercial and industrial alterations. In order to construct or build an addition in Regina, a building permit is required</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mt-lg-0 mt-5">
-                    <div class="grids5-info">
-                        <span class="posted-date">
-                            <a href="#blog-single">
-                                <span class="small">2014</span>
-                                <span class="big">22</span>
-                                <span class="small">July</span>
-                            </a>
-                        </span>
-                        <a href="#blog-single" class="d-block zoom"><img src="assets/images/p3.jpg" alt=""
-                                class="img-fluid news-image" /></a>
-                        <div class="blog-info">
-                            <a href="#category" class="category">Uncategorized</a>
-                            <h4><a href="#blog-single">Builders in Vancouver complaining of long delays for permits</a></h4>
-                            <p>Vancouver has been bragging about the record number of building permits it has issued in the first six months of the year. However, a change in the rules means that trend likely won’t continue. New bylaws aimed at making homes more accessible and environmentally friendly .</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-</div>
-<!--  //News section -->
 <section class="w3l-companies-hny-6 py-5">
     <!-- /grids -->
         <div class="container py-md-3">
@@ -644,7 +451,7 @@
         </div>
         <div class="d-grid grid-col-3 grids-content1 bottom-border">
           <div class="columns copyright-grid align-self">
-            <p class="copy-footer-29">© 2021 Building Permit. All rights reserved. </p>
+            <p class="copy-footer-29">© 2021 Infinix Gaming. All rights reserved. </p>
           </div>
         </div>
       </div>

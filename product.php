@@ -131,17 +131,17 @@
             </ul>
         </div>
         <div class="post-content">
-            <h2 class="title-single"> Barren Land</h2>
+            <h2 class="title-single"><?php echo $item['name'] ?></h2>
         </div>
         <div class="blo-singl mb-4">
             <ul class="blog-single-author-date align-items-center">
                 <li>
-                    <p>Unnamed road, San Francisco, CA 94102</p>
+                    <p><?php echo $item['release1'] ?></p>
                 </li>
-                <li><span class="fa fa-share-square-o"></span> 1258 sqrft</li>
+                <li><span class="fa fa-share-square-o"></span><?php echo $item['sell'] ?></li>
             </ul>
             <ul class="share-post">
-                <a href="#url" class="cost-estate m-o">$25,0045</a>
+                <a href="#url" class="cost-estate m-o">$ <?php echo $item['price'] ?>.00</a>
             </ul>
         </div>
         <div class="row">
@@ -170,32 +170,21 @@
                             This problem developed from companies which did not take security seriously. Lorem ipsum
                             dolor sit amet elit. </p>
                         <div class="single-bg-white">
-                            <h3 class="post-content-title mb-4">Property detail</h3>
+                            <h3 class="post-content-title mb-4">Game type</h3>
                             <ul class="details-list">
-                                <li><strong>Property id :</strong> PRPT12345 </li>
-                                <li><strong>Property size :</strong> 1200sqft </li>
-                                <li><strong>Bedrooms :</strong> 5 </li>
-                                <li><strong>Bathrooms :</strong> 2 </li>
-                                <li><strong>Property Price :</strong> $ 750 </li>
-                                <li><strong>Avaiable from :</strong> Aug 2019 </li>
-                            </ul>
-                        </div>
-                        <div class="single-bg-white">
-                            <h3 class="post-content-title mb-4">Nearby Locations</h3>
-                            <ul class="details-list">
-                                <li><strong>Fire Station </strong></li>
-                                <li><strong>Mall </strong> </li>
-                                <li><strong>Grocery Shops</strong> </li>
-                                <li><strong>Hospital </strong> </li>
+                                <li><strong>Action </strong></li>
+                                <li><strong>Adventure </strong> </li>
+                                <li><strong>TPP</strong> </li>
+                                <li><strong>Fantasy </strong> </li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="single-bg-white">
-                        <h3 class="post-content-title mb-4">Location</h3>
+                        <h3 class="post-content-title mb-4">Trailor</h3>
                         <div class="agent-map">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.2895687731!2d-74.26055986835598!3d40.697668402590374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1562582305883!5m2!1sen!2sin"
+                                src="https://www.youtube.com/embed/sz9QWTcbXYE"
                                 frameborder="0" style="border:0" allowfullscreen=""></iframe>
                         </div>
                     </div>
@@ -311,7 +300,7 @@
         </div>
         <div class="d-grid grid-col-3 grids-content1 bottom-border">
           <div class="columns copyright-grid align-self">
-            <p class="copy-footer-29">© 2021 Building Permit. All rights reserved. </p>
+            <p class="copy-footer-29">© 2021 Infinix Gaming. All rights reserved. </p>
           </div>
         </div>
       </div>
